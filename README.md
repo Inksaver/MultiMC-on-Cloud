@@ -12,4 +12,7 @@ This computer also has your Dropbox account running.
 
 Settings can be tweaked manually when using a different OS.
 This Python script has been written to automate this process.
+
+The MultiMC on cloud storage.pdf file in this repository gives full details how to setup your Minecraft environment on Dropbox and how to use these python files to switch the java paths automatically.
+
 <img width="2002" height="1138" alt="multimc" src="https://github.com/user-attachments/assets/87495b04-d838-4d00-816f-4711ef4b889c" />
